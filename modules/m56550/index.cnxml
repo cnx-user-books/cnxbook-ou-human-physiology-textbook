@@ -1,0 +1,62 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>OU Human Physiology: Reflexes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m56550</md:content-id>
+  <md:title>OU Human Physiology: Reflexes</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify the players in a reflex arc</item>
+<item>Explain the role of each player in a reflex arc</item>
+<item>Describe the withdrawal reflex</item>
+<item>Explain the muscle spindle stretch reflexes</item>
+<item>Classify reflexes according to the four groups</item>
+</list></md:abstract>
+  <md:uuid>a7cefca8-1adf-4301-8447-b9f7415f331d</md:uuid>
+</metadata>
+
+<content>
+ <section id="fs-id2115993"><title>Reflexes</title><para id="fs-id1953146">This chapter began by introducing reflexes. Reflexes are neural pathways involving patterned responses to a sensory stimulus. These neural pathways are often referred to as <term>reflex arcs</term> (<link target-id="fig-ch11_31" document=""/>). In order to generate a reflex, there are several players that must coordinate their actions. These players include:  a stimulus, sensory receptor, afferent neuron, integration center (CNS), efferent neuron, and an effector. To set this pathway in motion, the receptor must detect a stimulus; once detected an electrical signal will be sent along the afferent neuron to the CNS which will then decide on a response and send an electrical signal via the efferent neuron to the effector organ which brings about the desired response. If you remember the Latin root “effere” means “to carry”; adding the prefix “ef-“ suggests the meaning “to carry away”, whereas adding the prefix “af-“ suggests “to carry toward or inward.” Hence the afferent neuron will carry a signal toward the CNS and the efferent neuron will carry a signal away from the CNS. </para><figure id="fig-ch11_31"><title>Generalized Reflex Arc Schematic </title><media id="fs-id2815809" alt="This diagram shows a generalized reflex arc from stimulus to response.">
+<image mime-type="image/jpg" src="../../media/reflex_arc.jpg" width="520"/>
+</media></figure><para id="eip-742">Let’s relate the components of the reflex arc to our example of the withdrawal reflex that you were introduced to at the beginning of this chapter. </para><para id="fs-id2133457">When you touch a hot pot on a stove, you pull your hand away. How does the body know to do that?  Sensory receptors in the skin sense extreme temperature. This triggers an action potential which travels along the sensory fiber from the skin, through the dorsal spinal root to the spinal cord, and directly activates a ventral horn motor neuron. That neuron sends a signal along its axon to excite the biceps brachii, causing contraction of the muscle and flexion of the forearm at the elbow to withdraw the hand from the hot stove. This is an excellent example of a reflex as it demonstrates a response that automatically occurs without any conscious effort (<link target-id="fig-ch11_32" document=""/>).</para><figure id="fig-ch11_32"><title>Pain Withdrawal Reflex </title><media id="fs-id28158090" alt="This diagram shows the pain withdrawal reflex arc activated when a hand touches a hot pan.">
+<image mime-type="image/jpg" src="../../media/pain_withdrawal_reflex.jpg" width="520"/>
+</media>
+<caption>When a sensory receptor in the hand senses a hot object it sends a nerve impulse to the spinal cord which then sends a nerve impulse to relax the biceps brachii and to constrict the triceps to move the hand away from the painful stimulus.</caption></figure>
+
+<para id="fs-id2093774">Another type of reflex is a <term>stretch reflex</term>. In this reflex, when a skeletal muscle is stretched, a muscle spindle receptor is activated. These reflexes are commonly called muscle spindle stretch reflexes. The axon from this receptor structure will cause direct contraction of the muscle. A collateral of the muscle spindle fiber will also inhibit the motor neuron of the antagonist muscles. The reflex helps to maintain muscles at a constant length. A common example of this muscle spindle stretch reflex is the knee jerk that is elicited by a rubber hammer struck against the patellar ligament in a physical exam. The players in the knee jerk reflex include: hammer (stimulus), muscle spindle (receptor that detects muscle lengthening), afferent neuron, spinal cord (integrator), efferent neuron, and the quadriceps muscle (effector). When a physician taps the patellar tendon on the knee with a hammer, the patellar tendon stretches which then stretches the quadriceps muscle. This stretch is detected by the muscle spindle receptor which responds by generating an action potential in the afferent neuron which synapses with the efferent neuron in the ventral horn of the spinal cord. An action potential is then generated along the efferent neuron that innervates the quadriceps muscle stimulating it to contract causing the leg to kick out (<link target-id="fig-ch11_33" document=""/>).</para><figure id="fig-ch11_33"><title>Knee Jerk Reflex </title><media id="fs-id28158091" alt="This diagram shows the knee jerk reflex that occurs when a stimulus is applied to the patellar tendon.">
+<image mime-type="image/jpg" src="../../media/knee_jerk_reflex-5e99.jpg" width="520"/>
+</media>
+<caption>Depicted in the diagram is the knee jerk reflex. When the patellar tendon is hit, it sends a signal to the spinal cord that travels back through a motor neuron without going to brain. The motor neuron starts the contraction of muscle spindle fibers in the quadriceps to contract and the hamstrings to relax. However, if a patient expects the patellar hit a signal travels to the brain first (dotted line).</caption></figure>
+
+
+<para id="eip-748">Like the withdrawal reflex, in order for the quadriceps to contract the hamstring must relax. This occurs because the afferent neurons have collaterals so while one efferent neuron is stimulating the quadriceps to contract another efferent neuron that synapsed with the same afferent neuron is inhibiting contraction of the hamstring muscle. To do this, the afferent neuron synapses with other neurons (an interneuron and an efferent neuron) in the spinal cord. The interneuron is inhibitory which inhibits the efferent neuron and therefore the hamstring. Thus, the hamstring will remain relaxed while the quadriceps contracts.</para><para id="fs-id2584331">A specialized reflex to protect the surface of the eye is the <term>corneal reflex</term>, or the eye blink reflex. When the cornea is stimulated by a tactile stimulus, or even by bright light in a related reflex, blinking is initiated. The sensory component travels through the trigeminal nerve, which carries somatosensory information from the face, or through the optic nerve, if the stimulus is bright light. The motor response travels through the facial nerve and innervates the orbicularis oculi on the same side. This reflex is commonly tested during a physical exam using an air puff or a gentle touch of a cotton-tipped applicator.</para><para id="eip-420">All reflexes, including the withdrawal reflex, knee jerk reflex, and corneal reflex, can be classified into each of the following four groups. </para><list id="eip-417"><item><emphasis effect="italics">Cranial or Spinal.</emphasis> The level of processing will determine whether the reflex is cranial or spinal. If the highest level of integration is the brain, the reflex is cranial and if the reflex involves only the spinal cord it is a spinal reflex.</item>
+<item><emphasis effect="italics">Autonomic or Somatic.</emphasis> If the reflex involves the somatic nervous system and therefore skeletal muscle, the reflex will be characterized as somatic, but if the reflex involves the autonomic nervous system and therefore cardiac muscle or smooth muscle, the reflex will be characterized as autonomic.</item>
+<item><emphasis effect="italics">Monosynaptic, Disynaptic, or Polysynaptic.</emphasis> These reflexes are characterized as to the number of synapses in the reflex. Remember to study those prefixes (mono- means one, di- means two, and poly- means many). If there is only one synapse (mono-) which means there are two neurons involved, this reflex is characterized as a monosynaptic reflex. If there are two synapses, there are four neurons involved and this reflex is characterized as disynaptic. If there are more than two synapses which implies there are more than four neurons, the reflex is polysynaptic.</item>
+<item><emphasis effect="italics">Innate or Conditioned.</emphasis> If the reflex is innate you are born with this reflex. We are all born with innate reflexes. Conditioned reflexes are ones that we have trained based on our life experiences. Olympic divers have to condition the reflex that causes them to stick their head out when they dive off a diving board so they have to focus on training that reflex and tucking the head in; otherwise a belly flop is inevitable.</item></list><note id="fs-id2261550" class="anatomy interactive"><label/>
+<media id="fs-id2844591" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/corneal_reflex.png" width="120"/>
+</media>
+<para id="fs-id2366862">Watch this <link url="http://openstaxcollege.org/l/reflexarc">video</link> to learn more about the reflex arc of the corneal reflex. When the right cornea senses a tactile stimulus, what happens to the left eye? Explain your answer.</para>
+</note><note id="fs-id2316194" class="anatomy interactive"><label/>
+<media id="eip-id2242005" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/newborn_reflex.png" width="120"/>
+</media>
+<para id="fs-id1883211">Watch this <link url="http://openstaxcollege.org/l/newreflex">video</link> to learn more about newborn reflexes. Newborns have a set of reflexes that are expected to have been crucial to survival before the modern age. These reflexes disappear as the baby grows, as some of them may be unnecessary as they age. The video demonstrates a reflex called the Babinski reflex, in which the foot flexes dorsally and the toes splay out when the sole of the foot is lightly scratched. This is normal for newborns, but it is a sign of reduced myelination of the spinal tract in adults. Why would this reflex be a problem for an adult?</para>
+</note></section>
+<section id="fs-id2031397" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1762343">Reflexes are the simplest circuits within the somatic nervous system. A withdrawal reflex from a painful stimulus only requires the sensory fiber that enters the spinal cord and the motor neuron that projects to a muscle. Antagonist and postural muscles can be coordinated with the withdrawal, making the connections more complex. The simple, single neuronal connection is the basis of somatic reflexes. The corneal reflex is contraction of the orbicularis oculi muscle to blink the eyelid when something touches the surface of the eye. Stretch reflexes maintain a constant length of muscles by causing a contraction of a muscle to compensate for a stretch that can be sensed by a specialized receptor called a muscle spindle.</para>
+</section>
+
+
+</content>
+<glossary>
+<definition id="fs-id2337597"><term>corneal reflex</term> <meaning id="fs-id2570592">protective response to stimulation of the cornea causing contraction of the orbicularis oculi muscle resulting in blinking of the eye</meaning></definition>
+
+<definition id="fs-id18456820"><term>reflex arc</term> <meaning id="fs-id18826260">pathway by which a stimulus reflexively induces a response</meaning></definition>
+
+<definition id="fs-id1845682"><term>stretch reflex</term> <meaning id="fs-id1882626">response to activation of the muscle spindle stretch receptor that causes contraction of the muscle to maintain a constant length</meaning></definition>
+
+</glossary>
+
+</document>
